@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke, Founder & CEO of SoftwareFixingSoftware.</h1>
-<h3 align="center">Innovating Software Solutions for the Future.</h3>
+<h3 align="center">Delivering Innovative Software Solutions for the Future. Partner with us to build world-class software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softwarefixingsoftware&label=Profile%20views&color=0e75b6&style=flat" alt="softwarefixingsoftware" /> </p>
 
